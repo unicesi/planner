@@ -20,10 +20,12 @@ Require-Bundle: org.eclipse.ui,
  co.edu.icesi.shift.applicability;bundle-version="0.1.0",
  co.edu.icesi.shift.applicability.edit;bundle-version="1.0.0",
  co.edu.icesi.shift.common;bundle-version="1.0.0"
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8,
+ JavaSE-1.7,
+ OSGi/Minimum-1.2
 Bundle-ActivationPolicy: lazy
 Export-Package: co.shift.generators.workflows
 Bundle-ClassPath: lib/mysql-connector-java-5.0.8-bin.jar,
- lib/choco-solver-3.3.2-j7.jar,
+ lib/choco-solver-4.0.0.a-with-dependencies.jar,
  lib/trove-3.0.0a1.jar,
  .
