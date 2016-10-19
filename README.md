@@ -12,4 +12,4 @@ The dynamic nature of current software execution environments demands a reliable
 This folder contains the code base for the Eclipse Plug-ins that support the process of finding a Resolution model. The implementation includes the representation for the two input models (Quality Configuration and Decision Model), and the plug-in that allows to initiate the process and evaluate the optimun resolution model.
 
 # Execute
-Download and open the project in Eclipse EMF Mars. Run as Eclipse Application and follow the steps described in the user documentation.
+Download and open the project in Eclipse EMF Mars. Run as Eclipse Application and follow the steps described in the user documentation. The user documentation is currently in spanish and is linked to the current release. 
